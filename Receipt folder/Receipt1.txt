@@ -1,0 +1,136 @@
+{
+  "message": "Order details retrieved successfully.",
+  "data": {
+    "order_id": 3000,
+    "order_number": 3110,
+    "requested_pick_up_time": "Scheduled Order",
+    "confirmed_pick_up_time": "27 May 2025 18:30",
+    "payment_method": "Card",
+    "customer_name": "BRIAR ",
+    "customer_phone": "+64223988249",
+    "customer_email": "bellpatch213@gmail.com",
+    "items": [
+      {
+        "quantity":1,
+        "name": "Loaded Fries",
+        "unit_price": "13.50",
+        "sub_total": "13.50",
+        "sub_items": [
+          {
+            "name": "Large with cheese",
+            "unit_price": 12.50,
+            "sub_total": "12.50"
+          },
+          {
+            "name": "Chicken",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Lamb",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Garlic Yoghurt",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Satay",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Mild Chilli",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          }
+        ],
+        "rowspan": 7
+      },
+      {
+        "quantity": 1,
+        "name": "Loaded Fries",
+        "unit_price": "13.50",
+        "sub_total": "13.50",
+        "sub_items": [
+          {
+            "name": "Kids'",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Chicken",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Satay",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Mild Chilli",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          }
+        ],
+        "rowspan": 5
+      },
+      {
+        "quantity": 1,
+        "name": "Loaded Fries",
+        "unit_price": "13.50",
+        "sub_total": "13.50",
+        "sub_items": [
+          {
+            "name": "Kids' with cheese",
+            "unit_price": "1.50",
+            "sub_total": "1.50"
+          },
+          {
+            "name": "Chicken",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Garlic Yoghurt",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Satay",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          },
+          {
+            "name": "Mild Chilli",
+            "unit_price": "0.00",
+            "sub_total": "0.00"
+          }
+        ],
+        "rowspan": 6
+      }
+    ],
+    "order_totals": [
+      {
+        "title": "Sub Total",
+        "value": "54.50"
+      },
+      {
+        "title": "GST [15% included]",
+        "value": "7.11"
+      },
+      {
+        "title": "Order Total",
+        "value": "54.50"
+      }
+    ],
+    "restaurant_info": {
+      "name": "Assyrian Kebab House",
+      "address": "119 Kapiti Road Paraparaumu 5032",
+      "phone": "+64 4 902 5770"
+    }
+  }
+}
